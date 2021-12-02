@@ -1,7 +1,7 @@
-# RegisterPages
+#RegisterPages
 Aplikasi ini dapat digunakan untuk menjadi form pendaftaran
 
-##  Scope & Functionalities
+##Scope & Functionalities
 1. User dapat memasukkan nama, email dan nomer HP
 2. User dapat menekan tombol daftar
 3. User dapat memilih email atau whatsapp untuk media verifikasi
